@@ -17,3 +17,11 @@ Estuvimos haciendo el mundo, esqueletos, slime, arañas, texturas para los enemi
 En UE, empezamos a programar el movimiento de la cámara y configuramos los controles en VR.  Seguimos investigando y poniendo en práctica los grabbable objects así como las colisiones.
 
 Investigamos sobre el peon
+
+
+
+15/8 a 26/8
+
+Arte: Riggeamos un enemigo y animamos el slime. También hicimos retopology a un esqueleto e hicimos y riggeamos un arco con tensión.
+
+Programación: Logramos hacer funcionar el arco y una bola de fuego en Unreal. También añadimos una tirolesa para más movilidad. 
